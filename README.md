@@ -78,10 +78,15 @@ passionate about building intelligent systems and clean web experiences.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-## 🔥 GitHub Contribution Graph
+## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokeguy03&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pokeguy03/Pokeguy03/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pokeguy03/Pokeguy03/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pokeguy03/Pokeguy03/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
 </p>
 
 ## 🟡 LeetCode Stats
