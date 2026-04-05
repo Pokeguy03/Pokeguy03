@@ -30,8 +30,13 @@
   <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma" alt="LeetCode Stats" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Quote I Live By
+
+<p align="center">
+  <img src="https://img.shields.io/badge/_%22The%20world%20only%20cares%20about%20results.%22%20%E2%80%94%20Gun%20Park-6C63FF?style=for-the-badge&logoColor=white" alt="Quote"/>
+</p>
+
+<p align="center"><i>"The world only cares about results." — <b>Gun Park</b></i></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pokeguy03&limit=5&theme=dark&combine_all_yearly_contributions=true)
