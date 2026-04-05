@@ -102,11 +102,19 @@ passionate about building intelligent systems and clean web experiences.
 
 ## 🟡 LeetCode
 
+## 🟡 LeetCode Stats
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma" width="49%" alt="LeetCode Stats"/>
-  <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma&ext=activity" width="49%" alt="LeetCode Submission Graph"/>
+  <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma&border=0&radius=20&ext=activity" width="70%" alt="LeetCode Stats + Activity"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Solved-226-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Easy-153-00B8A3?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medium-70-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hard-3-EF4743?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ranking-%23656331-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
