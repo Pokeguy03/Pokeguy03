@@ -78,26 +78,13 @@ passionate about building intelligent systems and clean web experiences.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pokeguy03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats" onerror="this.src='https://github-stats-alpha.vercel.app/api?username=Pokeguy03'"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokeguy03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pokeguy03&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="GitHub Streak"/>
-</p>
-
 ## 🔥 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokeguy03&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
 </p>
 
-## 🟡 LeetCode Stats & Badges
+## 🟡 LeetCode Stats
 
 <!-- Profile Link Badge -->
 <p align="center">
