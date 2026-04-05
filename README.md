@@ -13,6 +13,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Pokeguy03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokeguy03&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokeguy03&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pokeguy03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
