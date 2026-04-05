@@ -102,10 +102,10 @@ passionate about building intelligent systems and clean web experiences.
 
 ## 🟡 LeetCode Stats & Badges
 
-<!-- LeetCode Profile Badge -->
+<!-- Profile Link Badge -->
 <p align="center">
   <a href="https://leetcode.com/u/Gurunath_M07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Gurunath__M07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -114,7 +114,7 @@ passionate about building intelligent systems and clean web experiences.
   <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma&border=0&radius=20&ext=heatmap" width="60%" alt="LeetCode Stats"/>
 </p>
 
-<!-- Performance Badges -->
+<!-- Stats Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Solved-226-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   <img src="https://img.shields.io/badge/Easy-153-00B8A3?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -124,15 +124,18 @@ passionate about building intelligent systems and clean web experiences.
 
 <!-- Achievement Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Ranking-%23656331-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/545%20Submissions-🔥-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/210%20Active%20Days-🟢-00B8A3?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/122%20Max%20Streak-⚡-EF4743?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🏆%20Ranking-%23656331-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥%20545%20Submissions-FFA116?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📅%20210%20Active%20Days-00B8A3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡%20122%20Max%20Streak-EF4743?style=for-the-badge"/>
 </p>
 
-<!-- Animated LeetCode Badge Showcase (shows your earned LeetCode medals/badges) -->
+<!-- LeetCode Earned Medal Badges (manually add ones you've earned) -->
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Gurunath_M07&animated=true&border=no_border" alt="LeetCode Badges" />
+  <img src="https://img.shields.io/badge/🥇%2050%20Days%20Badge-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🥇%20100%20Days%20Badge-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Annual%20Badge%202024-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Annual%20Badge%202025-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </p>
 ---
 
