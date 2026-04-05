@@ -100,12 +100,11 @@ passionate about building intelligent systems and clean web experiences.
 
 ---
 
-## 🟡 LeetCode
-
 ## 🟡 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma&border=0&radius=20&ext=activity" width="70%" alt="LeetCode Stats + Activity"/>
+  <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma&border=0&radius=20" width="49%" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma&border=0&radius=20&ext=heatmap" width="49%" alt="LeetCode Heatmap"/>
 </p>
 
 <p align="center">
