@@ -90,15 +90,12 @@ passionate about building intelligent systems and clean web experiences.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pokeguy03&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="GitHub Streak"/>
 </p>
----
 
 ## 🔥 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokeguy03&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
 </p>
-
----
 
 ## 🟡 LeetCode Stats & Badges
 
@@ -129,23 +126,6 @@ passionate about building intelligent systems and clean web experiences.
   <img src="https://img.shields.io/badge/📅%20210%20Active%20Days-00B8A3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/⚡%20122%20Max%20Streak-EF4743?style=for-the-badge"/>
 </p>
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pokeguy03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Pokeguy03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
-</p>
-
----
 
 ## ✍️ Quote I Live By
 
