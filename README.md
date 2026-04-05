@@ -129,14 +129,6 @@ passionate about building intelligent systems and clean web experiences.
   <img src="https://img.shields.io/badge/📅%20210%20Active%20Days-00B8A3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/⚡%20122%20Max%20Streak-EF4743?style=for-the-badge"/>
 </p>
-
-<!-- LeetCode Earned Medal Badges (manually add ones you've earned) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇%2050%20Days%20Badge-gold?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🥇%20100%20Days%20Badge-gold?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Annual%20Badge%202024-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Annual%20Badge%202025-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</p>
 ---
 
 ## 🏆 GitHub Trophies
