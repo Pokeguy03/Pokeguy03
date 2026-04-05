@@ -13,25 +13,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Pokeguy03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokeguy03&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+## 📈 Coding Activity
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pokeguy03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-## 🔥 GitHub Contribution Graph
+### 🔥 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokeguy03&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokeguy03&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
-## 🏆 LeetCode Stats
+### 🟡 LeetCode Submission Graph
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma&ext=activity" alt="LeetCode Submission Graph" />
 </p>
+
+### 🏆 LeetCode Stats Card
 <p align="center">
-  <a href="https://leetcode.com/u/Gurunath_M07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Gurunath__M07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Gurunath_M07&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Gurunath_M07?theme=dark&font=Karma" alt="LeetCode Stats" />
 </p>
 
 ### ✍️ Random Dev Quote
