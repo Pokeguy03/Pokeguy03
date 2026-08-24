@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **3rd year Computer Science student** at **Sri Sairam Engineering College, Chennai**,
+I'm a **4th year Computer Science student** at **Sri Sairam Engineering College, Chennai**,
 passionate about building intelligent systems and clean web experiences.
 
 - 🔭 Currently working on **ML and Web projects** that solve real-world problems
